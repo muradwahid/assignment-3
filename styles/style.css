@@ -1,5 +1,6 @@
 .skill-img{
     filter: brightness(50%);
+    height: 600px;
 }
 .heading-color{
     color: #4A4A4A;
@@ -16,4 +17,7 @@
 }
 .elearning-margin{
     margin-left: -10px;
+}
+.fa-star{
+    color: #F59E0B;
 }
